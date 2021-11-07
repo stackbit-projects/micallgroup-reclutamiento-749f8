@@ -33,7 +33,7 @@ sections:
       - image: /images/BBG3znOy_400x400.jpg
         image_alt: Logo 2
         image_align: center
-      - image: images/logo-3.svg
+      - image: /images/711px-Orange_logo.svg.png
         image_alt: Logo 3
         image_align: center
       - image: images/logo-4.svg
