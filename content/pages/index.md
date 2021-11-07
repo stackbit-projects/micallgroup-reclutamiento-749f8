@@ -76,7 +76,7 @@ sections:
     image_alt: lorem-ipsum2
     media_position: left
     media_width: sixty
-    align: left
+    align: right
     padding_top: large
     padding_bottom: large
     has_border: true
