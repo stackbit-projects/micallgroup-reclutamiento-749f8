@@ -188,7 +188,7 @@ sections:
         default_value: Nombre y apellido
         is_required: true
       - input_type: text
-        name: Tel
+        name: Móvil de contacto
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
