@@ -63,7 +63,6 @@ sections:
         image: >-
           /images/confident-call-center-operator-talking-with-client-c4b59f99.jpg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
