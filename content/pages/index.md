@@ -56,8 +56,8 @@ sections:
   - section_id: lorem-ipsum
     title: QUIENES SOMOS
     content: >
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      "Somos una empresa con mas de 10 años de experiencia en el rubro de
+      telecomunicaciones"
     actions: []
     actions_position: bottom
     actions_width: fourty
