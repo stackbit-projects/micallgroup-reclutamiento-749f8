@@ -111,7 +111,7 @@ sections:
         media_width: sixty
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: secondary
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
