@@ -49,7 +49,9 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    subtitle: 'Somos una empresa '
+    subtitle: >-
+      Somos una empresa con mas de 10 años de experiencia en el rubro de
+      telecomunicaciones 
   - title: QUE TE OFRECEMOS
     features:
       - title: Formalidad
