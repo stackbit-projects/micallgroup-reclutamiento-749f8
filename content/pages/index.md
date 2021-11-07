@@ -57,7 +57,7 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ## Lorem ipsum
+          ## ESTABILIDAD LABORAL
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
