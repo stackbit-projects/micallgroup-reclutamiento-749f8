@@ -30,7 +30,7 @@ sections:
     subtitle: What I do
     features:
       - title: NOSOTROS
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: 'Somos '
         content: >+
           En Micall Group, creemos que un trabajo es más que un lugar, es un
           compañero de camino, por eso, creamos oportunidades basadas en las
