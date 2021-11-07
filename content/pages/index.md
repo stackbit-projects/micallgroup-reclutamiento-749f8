@@ -27,8 +27,8 @@ sections:
     background_image: /images/watercolor.png
   - type: features_section
     title: >-
-      Somos una empresa con mas de 10 años de experiencia en el rubro de
-      telecomunicaciones
+      "Somos una empresa con mas de 10 años de experiencia en el rubro de
+      telecomunicaciones"
     features:
       - title: Nuestra Ideologia
         content: >+
