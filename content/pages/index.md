@@ -54,7 +54,7 @@ sections:
     background_image_size: auto
     actions: []
   - type: features_section
-    title: My services
+    title: QUIENES SOMOS
     subtitle: What I do
     features:
       - title: Content Creation
