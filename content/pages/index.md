@@ -58,7 +58,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: right
-        media_width: fifty
+        media_width: thirty-three
         align: left
         image: >-
           /images/confident-call-center-operator-talking-with-client-c4b59f99.jpg
