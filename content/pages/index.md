@@ -106,7 +106,7 @@ sections:
         icon: github
         icon_position: right
         new_window: false
-        no_follow: false
+        no_follow: true
     image_alt: lorem-ipsum
     video_embed_html: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
