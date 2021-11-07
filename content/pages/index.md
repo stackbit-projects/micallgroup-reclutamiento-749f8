@@ -50,7 +50,7 @@ sections:
     align: center
     background_color: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: QUE OFRECEMOS
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
