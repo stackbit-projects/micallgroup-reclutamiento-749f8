@@ -116,7 +116,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: small
-    has_border: false
+    has_border: true
     background_color: none
     background_image_opacity: 0
     background_image_size: cover
