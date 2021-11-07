@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: ¡El mejor lugar para trabajar!
     subtitle: >-
-      En nuestras oficinas trabajar es sinonimo de pasarla bien, trabajas a tu
+      En nuestras oficinas trabajar es sinónimo de pasarla bien, trabajas a tu
       manera, aprendes continuamente, desarrollas tu carrera, creas lazos
       sólidos con compañeros que se convierten en familia, busques lo que
       busques con nosotros puedes impulsar tu camino.
