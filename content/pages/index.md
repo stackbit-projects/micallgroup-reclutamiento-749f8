@@ -77,7 +77,7 @@ sections:
     media_position: left
     media_width: sixty
     align: left
-    padding_top: medium
+    padding_top: small
     padding_bottom: medium
     has_border: true
     background_color: none
