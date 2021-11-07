@@ -87,7 +87,7 @@ sections:
     image: /images/confident-call-center-operator-talking-with-client.jpg
   - title: QUE TE OFRECEMOS
     features:
-      - title: fORMA
+      - title: Formalidad
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
