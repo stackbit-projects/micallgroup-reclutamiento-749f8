@@ -91,7 +91,7 @@ sections:
         image_has_padding: false
         image: >-
           /images/confident-call-center-operator-talking-with-client-23720e2e.jpg
-      - title_align: left
+      - title_align: center
         content: >
           ## Linea de carrera
 
