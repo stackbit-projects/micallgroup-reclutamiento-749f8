@@ -57,7 +57,7 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ## ESTABILIDAD LABORAL
+          ## Estabilidad Laboral
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
