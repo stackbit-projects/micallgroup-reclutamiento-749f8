@@ -123,6 +123,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: /images/teleoperador-atiende-llamada-call-center.webp
   - type: grid_section
     title: NUESTROS CLIENTES
     subtitle: Con la confianza de empresas grandes y pequeñas
