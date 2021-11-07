@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: El mejor lugar para trabajar
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      creemos que un trabajo es más que un lugar, es un compañero de camino, por
+      eso, creamos oportunidades basadas en las personas, para empoderarlas y
+      guiarlas al éxito profesional.
     actions:
       - label: Contact Me
         url: /contact
