@@ -79,17 +79,9 @@ sections:
           /images/confident-call-center-operator-talking-with-client-7febf5dc.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
+        content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         media_position: top
