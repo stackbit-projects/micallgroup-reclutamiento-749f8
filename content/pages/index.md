@@ -83,7 +83,7 @@ sections:
         media_width: sixty
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: secondary
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
