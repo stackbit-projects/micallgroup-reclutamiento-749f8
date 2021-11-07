@@ -107,6 +107,8 @@ sections:
         media_position: right
         media_width: fifty
         align: left
+        image: >-
+          /images/confident-call-center-operator-talking-with-client-c4b59f99.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
