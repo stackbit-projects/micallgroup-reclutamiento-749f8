@@ -88,17 +88,10 @@ sections:
   - title: QUE TE OFRECEMOS
     features:
       - title: Formalidad
-        content: >-
-          ## Lorem ipsum
+        content: |
+          Planilla
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Desde el primer día de contrato
         actions: []
         image_alt: lorem-ipsum
         media_position: right
