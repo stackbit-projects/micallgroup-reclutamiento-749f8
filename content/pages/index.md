@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ejecutiva de ventas
+    title: Te gustan las ventas?
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
