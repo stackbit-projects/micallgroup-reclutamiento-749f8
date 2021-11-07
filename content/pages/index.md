@@ -80,6 +80,8 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: >-
+          /images/confident-call-center-operator-talking-with-client-7febf5dc.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
