@@ -29,7 +29,7 @@ sections:
     title: QUIENES SOMOS
     subtitle: What I do
     features:
-      - title: Content Creation
+      - title: NOSOTROS
         subtitle: 'Website, blog, social media and more.'
         content: >+
           En Micall Group, creemos que un trabajo es más que un lugar, es un
