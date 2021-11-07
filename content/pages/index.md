@@ -123,52 +123,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: QUE OFRECEMOS
-    features:
-      - title: Formalidad
-        content: >
-          Planilla desde el primer día de contrato, estabilidad laboral y línea
-          de carrera a corto plazo.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: right
-        media_width: thirty-three
-        align: left
-        image: >-
-          /images/confident-call-center-operator-talking-with-client-c4b59f99.jpg
-      - content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: right
-        media_width: thirty-three
-        align: left
-        image: >-
-          /images/confident-call-center-operator-talking-with-client-7febf5dc.jpg
-        title: Estabilidad laboral
-      - title: Linea de carrera
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: right
-        media_width: thirty-three
-        align: left
-        image: >-
-          /images/confident-call-center-operator-talking-with-client-45ae4b60.jpg
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
   - type: grid_section
     title: NUESTROS CLIENTES
     subtitle: Con la confianza de empresas grandes y pequeñas
