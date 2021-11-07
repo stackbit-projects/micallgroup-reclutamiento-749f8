@@ -189,7 +189,7 @@ sections:
         is_required: true
       - input_type: text
         name: Móvil de contacto
-        label: lorem-ipsum
+        label: Móvil de contacto
         default_value: lorem-ipsum
         options: []
         is_required: false
