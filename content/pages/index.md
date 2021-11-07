@@ -181,7 +181,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title_align: left
+      - title_align: right
         content: >-
           ## Lorem ipsum
 
