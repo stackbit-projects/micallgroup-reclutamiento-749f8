@@ -54,7 +54,7 @@ sections:
     subtitle: Quienes somos
     section_id: quienes somos
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: QUIENES SOMOS
     content: >-
       ## Lorem ipsum
 
