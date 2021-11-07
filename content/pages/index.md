@@ -49,7 +49,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - section_id: lorem-ipsum
+  - section_id: Titulo
     title: QUE OFRECEMOS
     subtitle: lorem-ipsum
     content: >-
