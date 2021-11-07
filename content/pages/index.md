@@ -51,7 +51,6 @@ sections:
     background_color: secondary
   - section_id: Titulo
     title: QUE OFRECEMOS
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
