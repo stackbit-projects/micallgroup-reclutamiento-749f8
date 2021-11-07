@@ -107,7 +107,7 @@ sections:
         icon_position: right
         new_window: false
         no_follow: false
-    image_alt: lorem-ipsum
+    image_alt: lorem-ipsum2
     video_embed_html: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
