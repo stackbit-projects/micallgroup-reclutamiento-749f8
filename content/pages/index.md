@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: ¡El mejor lugar para trabajar!
     subtitle: >-
-      Creemos que un trabajo es más que un lugar, es un compañero de camino, por
-      eso, creamos oportunidades basadas en las personas, para empoderarlas y
-      guiarlas al éxito profesional.
+      aprende continuamente, desarrolla tu carrera, crea lazos sólidos con
+      compañeros que se convierten en familia, busques lo que busques con
+      nosotros puedes impulsar tu camino.
     actions:
       - label: Contact Me
         url: /contact
