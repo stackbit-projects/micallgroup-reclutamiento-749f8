@@ -192,10 +192,6 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: textarea
-        name: message
-        label: Message
-        default_value: Your message
       - input_type: checkbox
         name: consent
         label: >-
