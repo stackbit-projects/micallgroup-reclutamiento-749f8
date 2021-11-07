@@ -108,9 +108,6 @@ sections:
         new_window: false
         no_follow: false
     image_alt: lorem-ipsum2
-    video_embed_html: >-
-      orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
     media_position: left
     media_width: fourty
     align: left
