@@ -23,7 +23,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
-    title: Con la confianza de empresas grandes y pequeñas
+    title: ueñas
     subtitle: Con la confianza de empresas grandes y pequeñas
     align: center
     grid_items:
