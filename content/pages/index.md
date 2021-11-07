@@ -201,7 +201,7 @@ sections:
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
-        image_position: right
+        image_position: left
         image_width: thirty-three
         image_align: left
         image_has_padding: false
