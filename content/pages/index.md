@@ -199,7 +199,6 @@ sections:
         image: >-
           /images/confident-call-center-operator-talking-with-client-f1fa1cab.jpg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: center
         content: >
           ## Lorem ipsum
