@@ -49,6 +49,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+    subtitle: 'Somos una empresa '
   - title: QUE TE OFRECEMOS
     features:
       - title: Formalidad
