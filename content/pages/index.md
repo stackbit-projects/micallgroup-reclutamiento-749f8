@@ -114,6 +114,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: /images/2-32731f3e.jpg
   - type: grid_section
     title: NUESTROS CLIENTES
     subtitle: Con la confianza de empresas grandes y pequeñas
