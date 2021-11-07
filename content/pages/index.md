@@ -31,10 +31,11 @@ sections:
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >+
+          En Micall Group, creemos que un trabajo es más que un lugar, es un
+          compañero de camino, por eso, creamos oportunidades basadas en las
+          personas, para empoderarlas y guiarlas al éxito profesional.
+
         actions:
           - label: See Writing Samples
             url: /faq
