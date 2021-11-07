@@ -53,7 +53,7 @@ sections:
     background_color: secondary
     subtitle: Quienes somos
     section_id: quienes somos
-  - title: QUE TE OFRECEMOS
+  - title: QUE OFRECEMOS
     features:
       - title: Formalidad
         content: >
