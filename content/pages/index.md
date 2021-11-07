@@ -190,7 +190,7 @@ sections:
       - input_type: number
         name: Móvil de contacto
         label: Móvil de contacto
-        default_value: lorem-ipsum
+        default_value: Número celular
         options: []
         is_required: false
       - input_type: email
