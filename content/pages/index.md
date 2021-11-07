@@ -4,9 +4,10 @@ sections:
   - type: hero_section
     title: ¡El mejor lugar para trabajar!
     subtitle: >-
-      aprende continuamente, desarrolla tu carrera, crea lazos sólidos con
-      compañeros que se convierten en familia, busques lo que busques con
-      nosotros puedes impulsar tu camino.
+      En nuestras oficinas trabajar es sinonimo de pasarla bien, trabajas a tu
+      manera, aprendes continuamente, desarrollas tu carrera, creas lazos
+      sólidos con compañeros que se convierten en familia, busques lo que
+      busques con nosotros puedes impulsar tu camino.
     actions:
       - label: Contact Me
         url: /contact
