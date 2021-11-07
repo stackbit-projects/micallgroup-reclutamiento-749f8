@@ -193,7 +193,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        content_align: right
+        content_align: left
         actions: []
         actions_align: left
         actions_width: auto
