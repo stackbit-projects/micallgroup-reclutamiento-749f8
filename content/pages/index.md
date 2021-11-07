@@ -126,7 +126,7 @@ sections:
     grid_gap_vert: medium
     background_image_size: auto
     actions: []
-    background_color: none
+    background_color: secondary
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
