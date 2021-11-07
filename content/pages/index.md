@@ -24,6 +24,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    background_image: /images/watercolor.png
   - type: grid_section
     title: NUESTROS CLIENTES
     subtitle: Con la confianza de empresas grandes y pequeñas
