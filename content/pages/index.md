@@ -185,7 +185,7 @@ sections:
       - input_type: text
         name: Nombres y apellidos
         label: Name
-        default_value: Your name
+        default_value: Nombre y apellido
         is_required: true
       - input_type: text
         name: lorem-ipsum
