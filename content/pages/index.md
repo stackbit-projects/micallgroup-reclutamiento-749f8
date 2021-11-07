@@ -115,7 +115,7 @@ sections:
     media_width: fourty
     align: left
     padding_top: medium
-    padding_bottom: small
+    padding_bottom: medium
     has_border: true
     background_color: none
     background_image_opacity: 0
