@@ -131,6 +131,7 @@ sections:
       - image: /images/2.jpg
         image_alt: Logo 1
         image_align: center
+        image_width: thirty-three
       - image: /images/BBG3znOy_400x400.jpg
         image_alt: Logo 2
         image_align: center
