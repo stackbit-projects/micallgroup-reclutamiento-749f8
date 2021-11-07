@@ -52,24 +52,6 @@ sections:
     align: center
     background_color: secondary
     section_id: quienes somos
-  - section_id: lorem-ipsum
-    title: QUIENES SOMOS
-    content: >
-      "Somos una empresa con mas de 10 años de experiencia en el rubro de
-      telecomunicaciones"
-    actions: []
-    actions_position: bottom
-    actions_width: fourty
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
   - title: QUE OFRECEMOS
     features:
       - title: Formalidad
