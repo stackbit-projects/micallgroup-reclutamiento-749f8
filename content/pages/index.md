@@ -49,6 +49,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
+    background_image_size: contain
   - type: features_section
     title: My services
     subtitle: What I do
