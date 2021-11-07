@@ -51,7 +51,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    subtitle: Quienes somos
     section_id: quienes somos
   - section_id: lorem-ipsum
     title: QUIENES SOMOS
