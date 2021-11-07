@@ -177,8 +177,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
+  - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
     grid_items:
