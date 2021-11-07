@@ -109,7 +109,7 @@ sections:
         no_follow: false
     image_alt: lorem-ipsum2
     media_position: left
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: medium
     padding_bottom: medium
