@@ -86,7 +86,6 @@ sections:
     type: hero_section
     image: /images/confident-call-center-operator-talking-with-client.jpg
   - title: QUE TE OFRECEMOS
-    subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
