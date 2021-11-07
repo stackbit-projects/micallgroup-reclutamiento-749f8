@@ -99,6 +99,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    subtitle: hola porque
   - type: grid_section
     title: NUESTROS CLIENTES
     subtitle: Con la confianza de empresas grandes y pequeñas
