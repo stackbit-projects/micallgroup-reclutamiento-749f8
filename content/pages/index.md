@@ -25,35 +25,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     background_image: /images/watercolor.png
-  - type: grid_section
-    title: NUESTROS CLIENTES
-    subtitle: Con la confianza de empresas grandes y pequeñas
-    align: center
-    grid_items:
-      - image: /images/2.jpg
-        image_alt: Logo 1
-        image_align: center
-      - image: /images/BBG3znOy_400x400.jpg
-        image_alt: Logo 2
-        image_align: center
-      - image: /images/711px-Orange_logo.svg.png
-        image_alt: Logo 3
-        image_align: center
-      - image: /images/gwimeOoz_400x400.jpg
-        image_alt: Logo 4
-        image_align: center
-      - image_alt: Logo 5
-        image_align: center
-      - image_alt: Logo 6
-        image_align: center
-      - image_alt: Logo 8
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    background_image_size: auto
-    actions: []
-    background_color: none
   - type: features_section
     title: QUIENES SOMOS
     subtitle: What I do
@@ -112,6 +83,35 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+  - type: grid_section
+    title: NUESTROS CLIENTES
+    subtitle: Con la confianza de empresas grandes y pequeñas
+    align: center
+    grid_items:
+      - image: /images/2.jpg
+        image_alt: Logo 1
+        image_align: center
+      - image: /images/BBG3znOy_400x400.jpg
+        image_alt: Logo 2
+        image_align: center
+      - image: /images/711px-Orange_logo.svg.png
+        image_alt: Logo 3
+        image_align: center
+      - image: /images/gwimeOoz_400x400.jpg
+        image_alt: Logo 4
+        image_align: center
+      - image_alt: Logo 5
+        image_align: center
+      - image_alt: Logo 6
+        image_align: center
+      - image_alt: Logo 8
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    background_image_size: auto
+    actions: []
+    background_color: none
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
