@@ -49,42 +49,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - section_id: Titulo
-    title: QUE OFRECEMOS
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: github
-        icon_position: right
-        new_window: false
-        no_follow: false
-    image_alt: lorem-ipsum2
-    media_position: left
-    media_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    has_border: true
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: /images/confident-call-center-operator-talking-with-client.jpg
   - title: QUE TE OFRECEMOS
     features:
       - title: Formalidad
