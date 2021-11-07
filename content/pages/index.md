@@ -83,7 +83,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions: []
         image_alt: lorem-ipsum
-        media_position: left
+        media_position: right
         media_width: thirty-three
         align: left
         image: >-
