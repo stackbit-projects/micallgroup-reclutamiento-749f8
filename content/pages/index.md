@@ -102,7 +102,7 @@ sections:
       - label: lorem-ipsum
         url: '#'
         style: primary
-        has_icon: true
+        has_icon: false
         icon: github
         icon_position: right
         new_window: false
