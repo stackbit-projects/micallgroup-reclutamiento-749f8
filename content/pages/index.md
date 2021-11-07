@@ -53,7 +53,7 @@ sections:
     grid_gap_vert: medium
     background_image_size: auto
     actions: []
-    background_color: secondary
+    background_color: none
   - type: features_section
     title: QUIENES SOMOS
     subtitle: What I do
