@@ -200,8 +200,7 @@ sections:
           /images/confident-call-center-operator-talking-with-client-f1fa1cab.jpg
       - title_align: center
         content: >
-          Lorem ipsum
-
+          ## Lorem ipsum&#xA;
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
