@@ -88,10 +88,9 @@ sections:
   - title: QUE TE OFRECEMOS
     features:
       - title: Formalidad
-        content: |
-          Planilla
-
-          Desde el primer día de contrato
+        content: >
+          Planilla desde el primer día de contrato, estabilidad laboral y línea
+          de carrera a corto plazo.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
