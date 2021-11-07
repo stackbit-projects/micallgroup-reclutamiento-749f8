@@ -205,6 +205,8 @@ sections:
         image_width: thirty-three
         image_align: left
         image_has_padding: false
+        image: >-
+          /images/confident-call-center-operator-talking-with-client-f1fa1cab.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
