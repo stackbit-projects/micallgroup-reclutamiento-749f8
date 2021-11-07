@@ -44,7 +44,7 @@ sections:
             icon_position: right
         image: /images/confident-call-center-operator-talking-with-client.jpg
         image_alt: Feature 1 illustration
-        media_position: right
+        media_position: left
         media_width: sixty
         align: left
       - title: Online Store Management
