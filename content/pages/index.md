@@ -198,8 +198,7 @@ sections:
         image_has_padding: false
         image: >-
           /images/confident-call-center-operator-talking-with-client-f1fa1cab.jpg
-      - title: lorem-ipsum
-        title_align: center
+      - title_align: center
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
