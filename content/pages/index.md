@@ -169,7 +169,7 @@ sections:
     form_fields:
       - input_type: text
         name: Nombres y apellidos
-        label: Name
+        label: Datos de contacto
         default_value: Nombre y apellido
         is_required: true
       - input_type: number
