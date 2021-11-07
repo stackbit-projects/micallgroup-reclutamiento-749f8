@@ -88,7 +88,6 @@ sections:
   - title: QUE TE OFRECEMOS
     features:
       - title: Formalidad
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
