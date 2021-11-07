@@ -77,7 +77,7 @@ sections:
         image: >-
           /images/confident-call-center-operator-talking-with-client-7febf5dc.jpg
         title: Estabilidad laboral
-      - title: lorem-ipsum
+      - title: Formalidad
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
