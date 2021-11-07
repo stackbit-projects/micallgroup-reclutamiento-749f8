@@ -26,7 +26,9 @@ sections:
     background_image_opacity: 8
     background_image: /images/watercolor.png
   - type: features_section
-    title: QUIENES SOMOS
+    title: >-
+      Somos una empresa con mas de 10 años de experiencia en el rubro de
+      telecomunicaciones
     features:
       - title: Nuestra Ideologia
         content: >+
