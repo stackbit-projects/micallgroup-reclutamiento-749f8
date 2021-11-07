@@ -42,7 +42,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-1.svg
+        image: /images/confident-call-center-operator-talking-with-client.jpg
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
