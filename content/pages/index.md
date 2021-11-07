@@ -178,7 +178,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - title: QUE OFRECEMOS
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title_align: left
