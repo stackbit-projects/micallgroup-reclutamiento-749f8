@@ -76,6 +76,7 @@ sections:
         align: left
         image: >-
           /images/confident-call-center-operator-talking-with-client-7febf5dc.jpg
+        title: Estabilidad laboral
       - title: lorem-ipsum
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
