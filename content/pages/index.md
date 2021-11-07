@@ -27,7 +27,6 @@ sections:
     background_image: /images/watercolor.png
   - type: features_section
     title: QUIENES SOMOS
-    subtitle: What I do
     features:
       - title: Nuestra Marca
         content: >+
