@@ -28,7 +28,7 @@ sections:
   - type: features_section
     title: QUIENES SOMOS
     features:
-      - title: Nuestra Marca
+      - title: Nuestra Ideologia
         content: >+
           En Micall Group, creemos que un trabajo es más que un lugar, es un
           compañero de camino, por eso, creamos oportunidades basadas en las
