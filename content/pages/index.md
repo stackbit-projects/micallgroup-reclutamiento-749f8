@@ -24,7 +24,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: NUESTROS CLIENTES
-    subtitle: con la confianza de empresas grandes y pequeñas
+    subtitle: Con la confianza de empresas grandes y pequeñas
     align: center
     grid_items:
       - image: images/logo-1.svg
