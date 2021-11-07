@@ -49,15 +49,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     background_image_size: auto
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
+    actions: []
   - type: features_section
     title: My services
     subtitle: What I do
