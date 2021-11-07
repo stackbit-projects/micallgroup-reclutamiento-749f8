@@ -217,17 +217,13 @@ sections:
         image: >-
           /images/confident-call-center-operator-talking-with-client-23720e2e.jpg
       - title_align: left
-        content: >-
+        content: >+
           ## Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
