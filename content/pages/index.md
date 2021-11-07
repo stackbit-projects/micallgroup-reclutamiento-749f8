@@ -85,8 +85,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: /images/confident-call-center-operator-talking-with-client.jpg
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
+  - title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
