@@ -104,7 +104,7 @@ sections:
           - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
     feature_padding_vert: medium
